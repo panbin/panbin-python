@@ -426,6 +426,8 @@ Python开源项目，期待大家和我们一起共同维护
 ========
 #### 他人总结
  * [awesome-python](https://github.com/vinta/awesome-python) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。 
+ * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。 
+ * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - <font color=#FF0000 >Awesome可能是GitHub上寻找和整理开源项目最好的方式</font> 。 
  * [interview_python](https://github.com/taizilongxu/interview_python) - 十分全面的Python的面试题。
  * [issue-198-top2015](http://python.jobbole.com/84145/) - 蠎周刊2015年度最赞。
  * [Awesome Python](https://python.libhunt.com/) - 一个收集Python资源的网站，框架、包、软件和其它资源都很棒，自带搜索功能，极为方便。
